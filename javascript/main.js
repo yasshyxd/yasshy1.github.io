@@ -62,7 +62,7 @@ links.forEach(function(link){
     console.log("click");
 
     setTimeout(function(){
-      location.href="/";
+      location.href="/index.html";
     },1000);
 
 
