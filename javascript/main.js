@@ -62,7 +62,7 @@ links.forEach(function(link){
     console.log("click");
 
     setTimeout(function(){
-      location.href="/index.html";
+      location.href="https://yasshyxd.github.io/yasshy1.github.io/";
     },1000);
 
 
